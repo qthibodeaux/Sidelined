@@ -8,7 +8,7 @@ function HowItWorks () {
     return (
         <Container>
             <Row>
-                <Col md='8' xs={6}>
+                <Col md='8' xs={6} style={{color: 'white'}}>
                     <h1>How To Play:</h1>
                     <p>Sidelined is a Power Rangers themed version of the classic Rock Paper Scissors.</p>
                     <p>Sidelined introduces rounds, a set amount of choices, and wagering to add a new level of skill and gamesmanship.</p>
@@ -31,7 +31,7 @@ function HowItWorks () {
                     <p>Yellow beats Blue and Pink</p>
                     <p>Blue beats Red and Black</p>
                     </div>
-                    
+                    <p>The system mirrors the Rock Paper Scissors Model to reduce the chance of a tie. To add additional complexity to the game is a wager system. Simply winning the battle is not enough, calling you opponents bluff and using deduction to try to predict the result of the battle is the key to victory. Using the information tools available to you to understand the options that are available to you and what your opponent may play is the key to victory. Dynamically adjusting statistical information is present to help make information decisions. Careful before your opponent is aware of this as well.</p>
                 </Col>
             </Row>
         </Container>
