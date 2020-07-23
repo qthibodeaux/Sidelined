@@ -67,7 +67,7 @@ function BattlePane (props) {
                     </Row>
                     <Row>
                     <div className="d-flex flex-row justify-content-center">
-                        <Image src="beats.jpg" rounded style={{ width: '8rem' }}/>
+                        <Image src="beats.jpg" rounded style={{ width: '20rem' }}/>
                     </div>
                     </Row>
                     
